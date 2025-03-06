@@ -1,4 +1,4 @@
-#AI-Powered Customer Support Chatbot for E-Commerce
+AI-Powered Customer Support Chatbot for E-Commerce
 
 1. Introduction:
 With the growth of e-commerce, customer service is increasingly becoming a key differentiator. Providing instant, accurate, and personalized support is crucial for improving the user experience. AI-powered chatbots offer a cost-effective and scalable solution to meet these needs. This report details the architecture, components, and steps involved in creating a customer support chatbot that can assist users with common queries, such as order tracking, product details, and general troubleshooting.
